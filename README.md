@@ -1,4 +1,5 @@
 RFM Customer Segmentation
+
 Segmenta a tus clientes en Campeones, Leales, En Riesgo y Perdidos para aumentar tus ventas hasta un 30% en 90 días.
 
 ¿Estás perdiendo clientes valiosos sin darte cuenta?
