@@ -1,11 +1,61 @@
-RFM Customer Segmentation
+# IBP Customer & Revenue Segmentation – Strategic RFM Analysis
 
-Segmenta a tus clientes en Campeones, Leales, En Riesgo y Perdidos para aumentar tus ventas hasta un 30% en 90 días.
+Este proyecto representa un **Customer & Revenue Review dentro del proceso de Integrated Business Planning (IBP)**, enfocado en evaluar la calidad, estabilidad y prioridad estratégica de la demanda a través de segmentación de clientes.
 
-¿Estás perdiendo clientes valiosos sin darte cuenta?
-El 70% de los ingresos de una empresa provienen del 20% de sus clientes. Sin segmentación RFM, estás tratando a todos igual… y perdiendo dinero.
+## Contexto de negocio
+No toda la demanda es igual de valiosa.
+Las empresas que crecen sin segmentar clientes suelen enfrentar:
+- Alta complejidad operativa
+- Bajo retorno sobre capacidad
+- Malos trade-offs entre servicio y rentabilidad
 
-Resultados Obtenidos con RFM
+Este análisis lleva la conversación de volumen a **valor**.
+
+## Problema que resuelve
+- Falta de visibilidad sobre calidad del revenue
+- Priorización de clientes basada solo en ventas
+- Riesgo de concentración no explícito
+- Demand Reviews sin enfoque estratégico
+
+## Enfoque estratégico
+El enfoque no es clasificar clientes, sino **habilitar decisiones ejecutivas** sobre:
+- Prioridades de servicio
+- Estrategias de crecimiento
+- Protección de clientes clave
+- Trade-offs en escenarios de restricción
+
+Diseñado desde el rol de **Strategic Planning & IBP Lead**.
+
+## Solución
+El modelo integra:
+- Segmentación RFM (Recency, Frequency, Monetary)
+- Clasificación estratégica de clientes
+- Análisis de concentración de ingresos
+- Visualización para toma de decisiones
+
+## Impacto en indicadores IBP
+- Mejora en calidad del revenue
+- Reducción de complejidad operativa
+- Mejor alineación Comercial–Supply
+- Soporte a decisiones de priorización de demanda
+
+## Decisiones habilitadas
+- ¿Qué clientes son estratégicos?
+- ¿A quién proteger en escenarios de escasez?
+- ¿Dónde enfocar crecimiento rentable?
+- ¿Qué demanda no justifica capacidad?
+
+## Relación con IBP
+Soporta directamente:
+- Demand Review
+- Customer Review
+- Executive IBP Review
+
+## Rol desempeñado
+Strategic Planning & IBP Lead:
+- Diseño de criterios de segmentación
+- Evaluación estratégica de demanda
+- Traducción analítica a decisiones ejecutivas
 
 ![Captura de pantalla 2026-01-12 155900](https://github.com/user-attachments/assets/b47ec74a-bdbc-4595-86ac-b66c6a49c1ed)
 
